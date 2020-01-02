@@ -2,7 +2,7 @@
 title: "MediPharm Labs to Serve Global Medical Cannabis Market"
 date: 2019-12-28T15:44:16-05:00
 draft: false
-image: "portfolio/marjauana.jpg"
+image: "img/portfolio/marjauana.jpg"
 ---
 MediPharm Labs (LABS.TO) (MEDIF) (MLZ.F) Receives First GMP Certification, Now Permitted to Serve Global Medical Cannabis Market. [Discuss on the Forum](https://forum.stockt.ca/t/labs-medipharm-labscorp-j)
 <!--more-->
